@@ -1,5 +1,4 @@
-c X+L few-level autoionizing system with b-b, b-f, f-f transitions
-c Electron spectra for partial wave I & II
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
       MODULE Global
       IMPLICIT NONE
       REAL,PARAMETER::
