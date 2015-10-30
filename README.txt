@@ -1,4 +1,4 @@
-# EUV + IR electron spectroscopy in multi-level two-partial-wave systems
+# EUV + IR electron spectroscopy in multi-level autoionizing systems
 
 The codes calculates the atomic wave function in the frequency domain
 and the photoelectron spectrum of a multi-level autoionizing system with
