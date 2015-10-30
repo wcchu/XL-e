@@ -8,7 +8,8 @@ calculation, analysis, and conclusion can be found in the paper:
 
 Wei-Chun Chu, Toru Morishita, and C. D. Lin, "Probing dipole-forbidden
 autoionizing states by isolated attosecond pulses", Phys. Rev. A 89,
-033427 (2014).
-DOI:10.1103/PhysRevA.89.033427
-arXiv:1402.3128
+033427 (2014). DOI:10.1103/PhysRevA.89.033427
+
+and a copy of the arXiv version (arXiv:1402.3128) can be found in this
+folder.
 
